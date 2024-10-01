@@ -1,0 +1,30 @@
+
+
+img{
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+#div0{
+    background-color: aqua;
+    width: 30%;
+    display: flexbox;
+   
+
+
+}
+
+#div1{
+    width: 100%;
+    text-align: right;
+    text-decoration: underline;
+    display: flexbox;
+   
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+
